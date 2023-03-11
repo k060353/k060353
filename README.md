@@ -1,4 +1,3 @@
-### Hi, I am Muhammad Mudasir 
-### Ruby On Rails  👋
-### Development
+### Hi, I am Muhammad Mudasir
+### Ruby On Rails (Developer)  👋
 
