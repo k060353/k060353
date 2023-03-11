@@ -13,7 +13,7 @@
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](http://saadmalik7.wordpress.com/)
 
 ## I'm a Student and Developer!!
-- 🎓 I graduated from FAST National University
+- 🎓 I graduated from VU University
 - 🌱 I’m Master's Student and a Software Engineer
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects, Get admission for Masters abroad!
